@@ -1,4 +1,4 @@
-# Hi! I'm Blake
+# Hi! I'm Blake Erickson
 
 ![blake labs circa 2004](https://blake.app/assets/img/DSCF0001.JPG)
 
@@ -12,14 +12,14 @@ Outside of work, I’m a husband, parent, snowboarder, and car nerd. If I’m no
 
 Some hobby projects I’m currently building are:
 
-[Recourss](https://app.recourss.com) (an RSS reader app)
-[ofcourse.chat](https://app.ofcourse.chat) (hosted Discourse just-chat instances)
-[ntbk.co](https://my.ntbk.co) (a notetaking app)
+- [Recourss](https://app.recourss.com) (an RSS reader app)
+- [ofcourse.chat](https://app.ofcourse.chat) (hosted Discourse just-chat instances)
+- [ntbk.co](https://my.ntbk.co) (a notetaking app)
 
 Some GitHub projects you should checkout:
 
-[just-chat](https://github.com/oblakeerickson/discourse-just-cat) - The main plugin used for [ofcourse.chat](https://app.ofcourse.chat)
-[mrgarvey](https://github.com/oblakeerickson/mrgarvey) - A rust service that runs and manages [ofcourse.chat](https://app.ofcourse.chat) instances.
+- [just-chat](https://github.com/oblakeerickson/discourse-just-cat) - The main plugin used for [ofcourse.chat](https://app.ofcourse.chat)
+- [mrgarvey](https://github.com/oblakeerickson/mrgarvey) - A rust service that runs and manages [ofcourse.chat](https://app.ofcourse.chat) instances.
 
 Checkout my personal website [blake.app](https://blake.app) to learn more about me and to see what I've been writing on my [blog](https://blake.app/blog).
 
