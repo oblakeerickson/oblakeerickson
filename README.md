@@ -1,5 +1,7 @@
 # Hi! I'm Blake
 
+![blake labs circa 2004](https://blake.app/assets/img/DSCF0001.JPG)
+
 I’m a software developer and builder. I’ve been programming and diving deep into the depths of computers since I was a teenager and 20+ years later I still can’t get enough. I’m most experienced building (and scaling!) web apps with Ruby/Rails and JavaScript, but I’m quickly falling in love with Rust and TypeScript as my tools of choice.
 
 Previously, I spent just shy of 9 years at Discourse as a Senior Software Engineer. I was an early employee (#11) and worked in many different capacities from devops like roles, doing feature development in Rails and Emberjs, to working closely with enterprise customers and users to build an amazing product they love.
