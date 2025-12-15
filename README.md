@@ -1,6 +1,6 @@
 # Hi! I'm Blake Erickson
 
-![blake labs circa 2004](https://blake.app/assets/img/DSCF0001.JPG)
+![blake labs circa 2004](https://blake.app/assets/img/DSCF0008.JPG)
 
 I’m a software developer and builder. I’ve been programming and diving deep into the depths of computers since I was a teenager and 20+ years later I still can’t get enough. I’m most experienced building (and scaling!) web apps with Ruby/Rails and JavaScript, but I’m quickly falling in love with Rust and TypeScript as my tools of choice.
 
