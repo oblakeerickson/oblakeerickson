@@ -21,6 +21,11 @@ Some GitHub projects you should checkout:
 - [just-chat](https://github.com/oblakeerickson/discourse-just-chat) - The main plugin used for [ofcourse.chat](https://app.ofcourse.chat)
 - [mrgarvey](https://github.com/oblakeerickson/mrgarvey) - A rust service that runs and manages [ofcourse.chat](https://app.ofcourse.chat) instances.
 
-Checkout my personal website [blake.app](https://blake.app) to learn more about me and to see what I've been writing on my [blog](https://blake.app/blog).
+My open source work in other orgs you can checkout:
+
+- Oxide.computer: https://github.com/search?q=org%3Aoxidecomputer+author%3Aoblakeerickson&type=pullrequests
+- Discourse: https://github.com/search?q=org%3Adiscourse+author%3Aoblakeerickson+author%3Ablake-discourse&type=pullrequests
+
+Checkout my personal website [blake.app](https://blake.app) to learn more about me and to see what I've been writing on my [blog](https://blake.app/blog). Also checkout my [.plan](https://plan.blake.app) site to see what I have planned for today.
 
 I’m currently on the lookout for a one-of-a-kind founder led company that I can apply my decades of software engineering obsession into. If that’s you and you are hiring, hit me up!
